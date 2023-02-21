@@ -7,3 +7,8 @@ docker compose exec nginx sh
 docker compose exec mysql sh
 mysql -u root -p"root" -h localhost 
 ```
+
+
+ +installed many PHP packages in Dockerfile
+
+
